@@ -14,8 +14,8 @@ DataBase used :
 # MySQL
 
 DataBase Table format :
-Email_id as Primary-Key
 ![image](https://user-images.githubusercontent.com/91486795/216843398-4346500b-c6e1-46cb-b524-c093e9c34510.png)
+Email_id as Primary-Key 
 
 
 FrontEnd pre-build theme imported from *Start Bootstrap* 
