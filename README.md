@@ -5,15 +5,16 @@
 #Features - User Registration, User Login & User Data Update 
 with session Tracking throughout the process
 
-# Backend Technologies used : 
+Backend Technologies used : 
 #JSP
 #JDBC
 #SERVLET
 
-DataBase used 
+DataBase used :
 # MySQL
 
 DataBase Table format :
+Email_id as Primary-Key
 ![image](https://user-images.githubusercontent.com/91486795/216843398-4346500b-c6e1-46cb-b524-c093e9c34510.png)
 
 
