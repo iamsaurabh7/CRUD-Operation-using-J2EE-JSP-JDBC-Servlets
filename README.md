@@ -1,4 +1,4 @@
-# J2EE-JSP-JDBC-Servlets-Project-by-Saurabh-Verma
+# CRUD-Operation-using-J2EE-JSP-JDBC-Servlets-Project-by-Saurabh-Verma
 
 #This is a  J2EE Project 
 
